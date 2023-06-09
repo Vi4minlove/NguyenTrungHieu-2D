@@ -35,6 +35,7 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         CoinCounter.currentCoins = 0;
+        FindAnyObjectByType<InterstitialAd>().ShowAd();
     }
     public void homeMenu()
     {
