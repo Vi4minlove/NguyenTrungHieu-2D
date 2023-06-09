@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: b043d98b126940344bcd5bb987ee0461
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: leaderboard
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94715dc9ce0f50a4a8c4b7ec6cc91c9f
+      internalID: 903187333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: share
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab68f0e501bbb44690e39426d799c79
+      internalID: 1809436876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: musicon
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b60209a5ef569448cfe7c2b6de88bc
+      internalID: -1347338847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rate
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caefe33b047f81489b6e68395eaca29
+      internalID: -193889665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: music off
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 371
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2bf033b550df4a92773de01b0b49f
+      internalID: -1902166988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 261
+        width: 262
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb983f27588c39248a26b67c2377c748
+      internalID: 355156625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 75
+        width: 171
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda19a6b651a33d4299857f564ba7684
+      internalID: -2093008538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: taptoplay
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 499
+        width: 585
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83923e5a7a20448b62556020ac8189
+      internalID: 1925970294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      add: -2093008538
+      leaderboard: 903187333
+      main..._1: -176034770
+      main..._10: 1720409196
+      main..._100: 360846538
+      main..._101: 85807864
+      main..._102: 1098459509
+      main..._103: -423758726
+      main..._104: 106984997
+      main..._105: -1781128409
+      main..._106: -1663689905
+      main..._107: 52856769
+      main..._108: 1671661573
+      main..._109: 650056102
+      main..._11: 336191334
+      main..._111: 838978204
+      main..._112: 2080773829
+      main..._113: 1704831494
+      main..._114: 1712067501
+      main..._115: -469877269
+      main..._116: -2062011037
+      main..._117: 774455921
+      main..._118: -329571560
+      main..._119: 1416818575
+      main..._12: -199200322
+      main..._120: 562812467
+      main..._121: 444397876
+      main..._123: 525443093
+      main..._124: 794245709
+      main..._125: 2100713567
+      main..._126: -224164780
+      main..._127: -1194181187
+      main..._128: 1048933602
+      main..._129: 403950086
+      main..._13: -1826968798
+      main..._130: 951636259
+      main..._131: -867653665
+      main..._132: -413713128
+      main..._133: 117015912
+      main..._134: 44796654
+      main..._135: 673149019
+      main..._136: -603252753
+      main..._14: 1833283413
+      main..._15: -1953620146
+      main..._16: -1337915451
+      main..._17: 356671486
+      main..._18: 642182111
+      main..._19: -150327814
+      main..._2: 1927465069
+      main..._20: -666510868
+      main..._21: -1355792352
+      main..._22: 943687960
+      main..._23: -2085803710
+      main..._24: -258181577
+      main..._25: 1304678156
+      main..._26: 369590046
+      main..._27: 2061213046
+      main..._28: -652671286
+      main..._29: 1950115977
+      main..._3: -34552407
+      main..._30: -925756417
+      main..._31: -723578854
+      main..._32: 179502073
+      main..._33: -1103902340
+      main..._34: 1384599544
+      main..._35: -928552060
+      main..._36: -645818717
+      main..._37: -796070585
+      main..._38: -679145398
+      main..._39: 523032475
+      main..._4: -153610359
+      main..._40: -209246532
+      main..._41: 150402710
+      main..._42: 773357571
+      main..._43: -400413222
+      main..._44: -398731111
+      main..._45: -1323673754
+      main..._46: 1751403199
+      main..._47: -1363443889
+      main..._48: -270325371
+      main..._49: -559837467
+      main..._5: 150895497
+      main..._50: -2133465768
+      main..._51: 538105049
+      main..._52: 559581624
+      main..._53: 249436879
+      main..._54: -289839388
+      main..._55: -1914735577
+      main..._56: -1656255335
+      main..._57: -1146140771
+      main..._58: -1028387038
+      main..._59: 517418269
+      main..._6: 570633205
+      main..._60: 396142257
+      main..._61: -52842693
+      main..._62: 1162720948
+      main..._63: -582233845
+      main..._64: 644156874
+      main..._65: 1365703760
+      main..._66: -2138918271
+      main..._67: -2032584940
+      main..._68: -1142929151
+      main..._69: 1529149662
+      main..._7: 800969348
+      main..._70: 913311870
+      main..._71: -1010457605
+      main..._72: -1374853803
+      main..._73: -1377791511
+      main..._74: 45190504
+      main..._75: 1565585917
+      main..._76: 566200443
+      main..._77: -1660204235
+      main..._78: -1809514984
+      main..._79: 1274971802
+      main..._8: 755200360
+      main..._80: -235165318
+      main..._81: -613016315
+      main..._82: 1864810099
+      main..._83: 1241005337
+      main..._84: 1713348688
+      main..._85: 339652760
+      main..._86: 2033050396
+      main..._88: 1342300390
+      main..._89: 1284253847
+      main..._9: 767276224
+      main..._92: 1833883041
+      main..._93: 1159274406
+      main..._95: 1312668088
+      main..._97: -615421658
+      main..._98: 991600558
+      main..._99: 728302219
+      music off: -1902166988
+      musicon: -1347338847
+      play: 355156625
+      rate: -193889665
+      share: 1809436876
+      taptoplay: 1925970294
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

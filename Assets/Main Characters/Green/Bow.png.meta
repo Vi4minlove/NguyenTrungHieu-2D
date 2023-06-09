@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: fd4024414f055ef4099d4f18db4d7a19
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bow_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 153
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336359edffb2c14dbc538a83ad7db66
+      internalID: 2013674053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 370
+        width: 178
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b900980d13d5241b16ebf3e52a445e
+      internalID: -1136099635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_09
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 372
+        width: 193
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7058965e24477fd4387b85661e48c7ec
+      internalID: -1451861265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_05
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 374
+        width: 164
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265fcfc89cee6c44a3354212d689659
+      internalID: -444995976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_01
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 372
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0206cd3789f7f4c983d0b3b3d89d35
+      internalID: -63799646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_08
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 253
+        width: 181
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf260fee439eeb45ab8b8888170c2cb
+      internalID: 159612126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_02
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 254
+        width: 168
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ea6d2528d3824eada91dcbf73cce5
+      internalID: -168970713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_06
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 258
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca6b0851ec1ad44180390a7c573d0e3
+      internalID: -2017551900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 256
+        width: 196
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc86982474f64474a89ed4b5eaa46bc7
+      internalID: -20911276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_07
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 259
+        width: 164
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6277e74eb86a143a4030420f9e89a8
+      internalID: 1188473363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_04
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 257
+        width: 177
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bf6a370afa4c4b84a65af4c9b6524
+      internalID: -1857915341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_03
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 257
+        width: 180
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4adac1d0f48e24aa50b40454e2cfbb
+      internalID: -1373458216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bow_12
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 260
+        width: 153
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9deb6a1f4b60e4a85d2002238825cb
+      internalID: 1706401619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bow_01: -63799646
+      Bow_02: -168970713
+      Bow_03: -1373458216
+      Bow_04: -1857915341
+      Bow_05: -444995976
+      Bow_06: -2017551900
+      Bow_07: 1188473363
+      Bow_08: 159612126
+      Bow_09: -1451861265
+      Bow_10: -20911276
+      Bow_107: -1870862023
+      Bow_108: 212059989
+      Bow_11: -1136099635
+      Bow_110: -1385707670
+      Bow_111: -392822377
+      Bow_112: 1205545205
+      Bow_113: -1828561688
+      Bow_114: 1404601436
+      Bow_115: -1162958911
+      Bow_116: 1503656920
+      Bow_117: 1880468194
+      Bow_118: -762706271
+      Bow_119: 591442950
+      Bow_12: 1706401619
+      Bow_120: -1855415286
+      Bow_121: 254132629
+      Bow_122: 398695079
+      Bow_123: -1642180639
+      Bow_124: -1359656332
+      Bow_125: 135471435
+      Bow_126: 608147073
+      Bow_127: 1530745420
+      Bow_128: -263821011
+      Bow_129: -754449391
+      Bow_13: 2013674053
+      Bow_130: -1882263387
+      Bow_131: -269682792
+      Bow_132: 1333062161
+      Bow_133: -867548868
+      Bow_134: 1893887892
+      Bow_135: 1505889728
+      Bow_136: -1322255810
+      Bow_14: 186890841
+      Bow_15: -1359977899
+      Bow_16: -1345032352
+      Bow_17: 829648163
+      Bow_18: -56972938
+      Bow_19: 1166963887
+      Bow_2: 1904728782
+      Bow_20: 920470424
+      Bow_21: -277697406
+      Bow_22: -1507752595
+      Bow_23: -810380713
+      Bow_24: 897819479
+      Bow_25: 2120551631
+      Bow_26: 2034049375
+      Bow_27: 1698349244
+      Bow_28: -760453630
+      Bow_29: 677902292
+      Bow_3: -1796345537
+      Bow_30: -512917383
+      Bow_31: -1327341375
+      Bow_32: -1973058535
+      Bow_33: -1804546904
+      Bow_34: 1563330685
+      Bow_35: -447839218
+      Bow_36: -1390073101
+      Bow_37: -538009468
+      Bow_38: 2062203270
+      Bow_39: 2074002919
+      Bow_4: 1668801274
+      Bow_40: 493015801
+      Bow_41: -1112544012
+      Bow_42: -1917598002
+      Bow_43: -798437836
+      Bow_44: 1644444799
+      Bow_45: -459215949
+      Bow_46: 2133635020
+      Bow_47: 1500715053
+      Bow_48: 1077576263
+      Bow_49: 796393781
+      Bow_5: 1196291
+      Bow_50: -717130845
+      Bow_51: -140341084
+      Bow_52: -429601632
+      Bow_53: 1968916852
+      Bow_54: 1217418325
+      Bow_55: -1521797522
+      Bow_56: -1362088246
+      Bow_57: -556170930
+      Bow_58: 591592312
+      Bow_59: 2142729910
+      Bow_6: -1623127091
+      Bow_60: 404790225
+      Bow_61: 665871908
+      Bow_62: 2102923618
+      Bow_63: 871081494
+      Bow_64: -1877316280
+      Bow_65: 818335146
+      Bow_66: 2116869761
+      Bow_67: -887795999
+      Bow_68: 1454934399
+      Bow_69: 836906903
+      Bow_7: -940577263
+      Bow_70: 288579435
+      Bow_71: 1980773125
+      Bow_72: -1223648660
+      Bow_73: -1109758898
+      Bow_74: -2026175832
+      Bow_75: -242404351
+      Bow_76: -158710932
+      Bow_77: 1575544987
+      Bow_78: 1093339577
+      Bow_79: -178295466
+      Bow_80: -1503715586
+      Bow_81: -355294154
+      Bow_82: 512330825
+      Bow_83: 204464872
+      Bow_84: -1500719442
+      Bow_87: 362263249
+      Bow_89: -1759284366
+      Bow_90: 86405039
+      Bow_91: -303347064
+      Bow_92: -1257277552
+      Bow_93: -1512376566
+      Bow_94: 889636900
+      Bow_95: 1051109010
+      Bow_96: -1802069667
+      Bow_99: -2113362398
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

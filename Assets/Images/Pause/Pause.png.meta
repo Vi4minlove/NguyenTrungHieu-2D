@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: e8e920bbff74373428aafb2e5e92675c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1721
+        width: 514
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a3a52aa6e38843b75922fb2ef6e6b
+      internalID: 1261086294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicOn
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500946ab2e151b349bb715368971e0f7
+      internalID: 2098785150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resume
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83df14fe5654b5242a33a6150e1bdedb
+      internalID: 118780959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82058f37603c4e84eaef951bed721b62
+      internalID: 1135297254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fea7aa00a861c47a07f30c67da828c
+      internalID: 712686464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MusicOff
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 370
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23508720a9280374abe79d1fd98bf9f8
+      internalID: 347922175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Home: 712686464
+      MusicOff: 347922175
+      MusicOn: 2098785150
+      Pause: 1261086294
+      Pause_0: -541194436
+      Pause_1: -178490099
+      Pause_10: -268043888
+      Pause_100: -347270827
+      Pause_101: 582739495
+      Pause_102: -1749244603
+      Pause_103: -684198155
+      Pause_104: -509488549
+      Pause_105: 206765512
+      Pause_106: 1347345408
+      Pause_107: 1958567564
+      Pause_108: 1841331587
+      Pause_109: 970688989
+      Pause_11: -820893319
+      Pause_110: -1293324559
+      Pause_111: 747832384
+      Pause_112: 63796805
+      Pause_113: 822514047
+      Pause_114: -346421774
+      Pause_115: 1413770303
+      Pause_116: -876384423
+      Pause_117: -1385391260
+      Pause_118: -219039662
+      Pause_119: -1793069372
+      Pause_12: -565344407
+      Pause_120: 963316042
+      Pause_121: 844188756
+      Pause_122: -316711032
+      Pause_123: -1779279214
+      Pause_124: 127576159
+      Pause_125: 628938746
+      Pause_126: 1109180500
+      Pause_127: -1734902615
+      Pause_128: 1154286323
+      Pause_129: -884746134
+      Pause_13: -642898381
+      Pause_130: 1926121009
+      Pause_131: 1293023495
+      Pause_132: 1391126332
+      Pause_133: -654065081
+      Pause_134: -268525893
+      Pause_135: 158239843
+      Pause_136: 2000215159
+      Pause_14: 1168888180
+      Pause_15: -1884986937
+      Pause_16: -99714290
+      Pause_17: 1664094056
+      Pause_18: 1017268973
+      Pause_19: -1112253020
+      Pause_2: 484895944
+      Pause_20: 200396609
+      Pause_21: 2077612553
+      Pause_22: -1341153074
+      Pause_23: 2144006736
+      Pause_24: -1611235861
+      Pause_25: -783319206
+      Pause_26: -1026238368
+      Pause_27: 228269479
+      Pause_28: -1987726818
+      Pause_29: -1764051625
+      Pause_3: -714840055
+      Pause_30: 954019564
+      Pause_31: -118631417
+      Pause_32: 1897099821
+      Pause_33: -1201751232
+      Pause_34: -280730696
+      Pause_35: -154346710
+      Pause_36: -529493293
+      Pause_37: 1098579841
+      Pause_38: -7353085
+      Pause_39: -1880695939
+      Pause_40: 770766342
+      Pause_41: -1079687357
+      Pause_42: 170403424
+      Pause_43: -791648292
+      Pause_44: -281246600
+      Pause_45: -601945418
+      Pause_46: -1198639807
+      Pause_47: 1838471333
+      Pause_48: -469567350
+      Pause_49: -1248017178
+      Pause_5: 13981344
+      Pause_50: -1682941565
+      Pause_51: -490518218
+      Pause_52: 1494199854
+      Pause_53: -1167190910
+      Pause_54: 239186526
+      Pause_55: -494330009
+      Pause_56: 1115956758
+      Pause_57: -114332852
+      Pause_58: 2114556467
+      Pause_59: 1759583435
+      Pause_6: -1232183166
+      Pause_60: -1807028270
+      Pause_61: 547656210
+      Pause_62: 1922555330
+      Pause_63: 762470966
+      Pause_64: -396930281
+      Pause_65: -1908858059
+      Pause_66: 2137325990
+      Pause_67: -1373478878
+      Pause_68: 1646628689
+      Pause_69: -1916205542
+      Pause_7: 53462212
+      Pause_70: -1259924514
+      Pause_71: 265711512
+      Pause_72: -743143152
+      Pause_73: -174270904
+      Pause_74: -1176357628
+      Pause_75: -2018159315
+      Pause_76: 318759994
+      Pause_77: 1765969072
+      Pause_78: 532351422
+      Pause_79: -909179161
+      Pause_8: -1690040648
+      Pause_80: -95198011
+      Pause_81: -667734129
+      Pause_82: 218526626
+      Pause_83: -2101298279
+      Pause_84: -1400155597
+      Pause_85: -353423847
+      Pause_86: 301334691
+      Pause_87: -832961662
+      Pause_88: -1140674866
+      Pause_89: 2105046702
+      Pause_9: 349245852
+      Pause_90: -276299873
+      Pause_94: -308092632
+      Pause_97: -1319181720
+      Pause_98: 1007588684
+      Pause_99: 1017618105
+      Restart: 1135297254
+      Resume: 118780959
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
