@@ -44,18 +44,18 @@ public class PlayerController : MonoBehaviour
 
             //}
 
-            //if (Input.GetKeyDown(KeyCode.S))
-            //{
-            //    ani.SetBool("Bow", true);
-            //}
-            //if (Input.GetKeyUp(KeyCode.S))
-            //{
-            //    ani.SetBool("Bow", false);
-            //}
-            //if (Input.GetMouseButtonDown(0))
-            //{
-            //    ani.SetBool("Bow", false);
-            //}
+            if (Input.GetKeyDown(KeyCode.S))
+            {
+                ani.SetBool("Bow", true);
+            }
+            if (Input.GetKeyUp(KeyCode.S))
+            {
+                ani.SetBool("Bow", false);
+            }
+            if (Input.GetMouseButtonDown(0))
+            {
+                ani.SetBool("Bow", false);
+            }
 
         }
     }
@@ -96,5 +96,15 @@ public class PlayerController : MonoBehaviour
             ani.SetBool("IsRunning", false);
         }
     }
-
+    //public void downButton()
+    //{
+    //    if (Input.GetButtonDown("DownButton"))
+    //    {
+    //        ani.SetBool("Bow", true);
+    //    }
+    //    else
+    //    {
+    //        ani.SetBool("Attack", false);
+    //    }
+    //}
 }
