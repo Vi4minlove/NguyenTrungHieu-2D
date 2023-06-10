@@ -31,18 +31,6 @@ public class PlayerController : MonoBehaviour
         if (dead == false)
         {
             myRig.velocity = new Vector2(moveSpeed, myRig.velocity.y);
-            //if (Input.GetKeyDown(KeyCode.Space))
-            //{
-            //    if (grouned)
-            //    {
-            //        myRig.velocity = new Vector2(myRig.velocity.x, jumpForce);
-            //    }
-
-            //    //ani.SetTrigger("Jump");
-            //    //AudioManager.instance.Play("Jump");
-            //    //ani.SetBool("IsRunning", false);
-
-            //}
 
             if (Input.GetKeyDown(KeyCode.S))
             {
@@ -96,15 +84,4 @@ public class PlayerController : MonoBehaviour
             ani.SetBool("IsRunning", false);
         }
     }
-    //public void downButton()
-    //{
-    //    if (Input.GetButtonDown("DownButton"))
-    //    {
-    //        ani.SetBool("Bow", true);
-    //    }
-    //    else
-    //    {
-    //        ani.SetBool("Attack", false);
-    //    }
-    //}
 }
