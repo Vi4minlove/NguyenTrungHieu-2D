@@ -31,20 +31,6 @@ public class PlayerController : MonoBehaviour
         if (dead == false)
         {
             myRig.velocity = new Vector2(moveSpeed, myRig.velocity.y);
-
-            if (Input.GetKeyDown(KeyCode.S))
-            {
-                ani.SetBool("Bow", true);
-            }
-            if (Input.GetKeyUp(KeyCode.S))
-            {
-                ani.SetBool("Bow", false);
-            }
-            if (Input.GetMouseButtonDown(0))
-            {
-                ani.SetBool("Bow", false);
-            }
-
         }
     }
     private void OnCollisionEnter2D(Collision2D collsion)
@@ -80,7 +66,7 @@ public class PlayerController : MonoBehaviour
         if (grouned)
         {
             AudioManager.instance.Play("Jump");
-            myRig.velocity = Vector2.up * jumpForce;
+            myRig.velocity = Vector3.up * jumpForce;
             ani.SetBool("IsRunning", false);
         }
     }
